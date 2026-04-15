@@ -1,6 +1,8 @@
 # Kanban Task Board
-Name : Hebatulla Omer Abdulla ALi <br>
-Matric: A24CS4014 <br>
+Name : Hebatulla Omer Abdulla ALi 
+
+Matric: A24CS4014 
+
 A vanilla JavaScript Kanban board built for my Cross Platform App Development course.
 
 ## Features
